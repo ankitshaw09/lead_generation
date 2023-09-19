@@ -24,7 +24,7 @@ Before running the script, make sure you have the following:
 2. Install the required Python libraries by running:
 
 ```bash
-pip install -r requirements.txt
+pip install openai
 
 ```
 
